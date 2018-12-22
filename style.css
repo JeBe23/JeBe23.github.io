@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Pathway+Gothic+One|Sawarabi+Gothic');
+h1 {
+    margin: auto;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+body {
+    font-family: 'Sawarabi Gothic', 'Pathway Gothic One', sans-serif;
+    background: url(jpg/bg.jpg);
+    color: rgb(167, 163, 163)
+}
+.contents {
+    margin-top: 50px;
+    margin-left: 80px;
+    font-weight: bold;
+    font-size: 150%;
+    text-decoration: underline;
+}
+.sp-mp-list {
+    padding-top: 10px;
+    font-style: italic;
+}
+.sp-header {
+    margin-top: 300px;
+    margin-left: 200px;
+    text-align: left;
+    border: 3px solid black;
+    width: 5.9em;
+    font-weight: bold;
+    font-size: 350%
+}
+.mp-header {
+    margin-top: 300px;
+    margin-left: 200px;
+    text-align: left;
+    border: 3px solid black;
+    width: 5.3em;
+    font-weight: bold;
+    font-size: 350%
+}
+p {
+    margin: 50px;
+    font-size: 110%;
+}
+.steam-page {
+    text-align: right;
+}
+a {
+    text-decoration: none;
+    color: whitesmoke
+}
